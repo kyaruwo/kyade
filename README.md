@@ -102,6 +102,12 @@ sed -i "/^root/a\kyaruwo ALL=(ALL:ALL) ALL" /etc/sudoers
 logout
 ```
 
+#### autologin as kyaruwo on archlinux when termux run
+
+```bash
+echo -e "\nclear\npd sh archlinux --user kyaruwo" >> /data/data/com.termux/files/usr/etc/bash.bashrc
+```
+
 #### login as kyaruwo
 
 ```bash
@@ -156,12 +162,6 @@ syncthing
 
 ### windows
 
-android - login
-
-```bash
-pd login archlinux --user kyaruwo
-```
-
 android - ssh (server)
 
 ```bash
@@ -183,12 +183,6 @@ press `Enter` + `~` + `.`
 <br />
 
 ### android
-
-login
-
-```bash
-pd login archlinux --user kyaruwo
-```
 
 tmux
 
