@@ -10,9 +10,9 @@
 
 - [x] setup devenv
 - [ ] setup [stackoyaki](https://github.com/kyaruwo/stackoyaki) development
-- [ ] setup homeserver
-- [ ] migrate former homeserver
-- [ ] create a install script w/ my [dotfiles](https://github.com/kyaruwo/dotfiles)
+- [ ] setup new homeserver
+- [ ] migrate old homeserver
+- [ ] create a devenv install script that includes my [dotfiles](https://github.com/kyaruwo/dotfiles)
 
 <br />
 
