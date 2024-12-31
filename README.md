@@ -2,7 +2,9 @@
 
 <br />
 
-### why? it's fun.
+### why?
+
+- I want to separate my development environment from my gaming environment.
 
 <br />
 
