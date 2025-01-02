@@ -42,8 +42,8 @@
 
 ### windows
 
-- [alacritty](https://github.com/alacritty/alacritty)
-- [syncthing](https://github.com/syncthing/syncthing)
+- [alacritty](https://github.com/kyaruwo/dotfiles/tree/main/windows/alacritty)
+- [syncthing](https://github.com/kyaruwo/dotfiles/tree/main/windows/syncthing)
 - [github desktop](https://desktop.github.com/download/)
 
 </details>
