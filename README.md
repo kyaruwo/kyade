@@ -130,6 +130,12 @@ echo -e "\nPort 10122" >> /etc/ssh/sshd_config
 echo "HostKey /home/kyaruwo/.ssh/id_ed25519" >> /etc/ssh/sshd_config
 ```
 
+#### sshd (logged in as kyaruwo)
+
+```bash
+echo -e "\nalias sshd='sudo /usr/sbin/sshd'" >> ~/.bashrc
+```
+
 #### tmux on ssh (logged in as kyaruwo)
 
 ```bash
@@ -167,7 +173,7 @@ syncthing
 android - ssh (server)
 
 ```bash
-sudo /usr/sbin/sshd
+sshd
 ```
 
 windows - alacritty (client)
