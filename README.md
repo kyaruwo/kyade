@@ -29,7 +29,7 @@
 ## hardware
 
 - 2 android devices
-- 1 wireless keyboard
+- 1 tri-mode keyboard
 - 1 windows device
 
 <br />
