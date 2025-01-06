@@ -13,7 +13,7 @@
 - [x] setup devenv
 - [ ] setup [stackoyaki](https://github.com/kyaruwo/stackoyaki) development
 - [ ] setup new homeserver
-- [ ] migrate old homeserver
+- [ ] migrate [old homeserver](https://github.com/kyaruwo/termux.config)
 - [ ] create a devenv install script that includes my [dotfiles](https://github.com/kyaruwo/dotfiles)
 
 <br />
