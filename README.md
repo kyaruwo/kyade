@@ -1,1 +1,1 @@
-<img src="kyade.png" />
+<img src="kyade.png" alt="visualization" />
